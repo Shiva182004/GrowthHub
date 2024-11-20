@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Job_Portal" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Job_Portal.</description>
+    <import file="nbproject/build-impl.xml"/>
+    
+</project>
